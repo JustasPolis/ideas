@@ -6,4 +6,4 @@
 - [ ] Integration with Magic Leap
 - [x] Jump back/forward
 - [x] Remember last watched
-- [ ] 360° video experience
+- [x] 360° video experience
